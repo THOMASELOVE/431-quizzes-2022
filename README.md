@@ -24,3 +24,5 @@ You will typically receive access to the quiz 3-4 days before it is due, and eac
 Each quiz will be graded solely by Professor Love. A detailed answer sketch and grading rubric will be provided to you when grades are available, usually within 48 hours of the quiz deadline. 
 
 In calculating your quiz average for your course grade, Professor Love weights your stronger Quiz performance at 60% and your other Quiz at 40%.
+
+[Click here](https://thomaselove.github.io/431-2022/) to return to the main website for the course.
