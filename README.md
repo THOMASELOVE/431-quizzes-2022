@@ -8,7 +8,7 @@ You will typically receive access to the quiz 3-4 days before it is due, and eac
 
 ## Specific Websites for Each Quiz
 
-1. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1) information is starting to become available [here](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1).
+1. Specific information about [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1) information is available [here](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1).
 2. Quiz 2 information will be posted later in the semester.
 
 ## General Information About the Quizzes
