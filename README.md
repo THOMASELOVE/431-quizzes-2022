@@ -11,6 +11,10 @@ You will typically receive access to the quiz 3-4 days before it is due, and eac
 1. Specific information about [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1) information is available [here](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1).
 2. Quiz 2 information will be posted later in the semester.
 
+## Sample Quiz: Five Old Quiz Questions
+
+Dr. Love prepared a document containing five old quiz questions, as well as an answer sketch for those five questions, and some information on results. [You'll find it all here](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/sample), if you are interested.
+
 ## General Information About the Quizzes
 
 1. Quizzes typically involve 20-30 questions. 
