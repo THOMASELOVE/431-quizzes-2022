@@ -6,7 +6,12 @@ During the semester, you will have two quizzes to complete. Each quiz is taken o
 
 You will typically receive access to the quiz 3-4 days before it is due, and each quiz will be designed to take about six hours to complete, so the time pressure should be minimal. **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, at least a week before a Quiz is released. 
 
-## About the Quizzes
+## Specific Websites for Each Quiz
+
+1. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1) information is starting to become available [here](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1).
+2. Quiz 2 information will be posted later in the semester.
+
+## General Information About the Quizzes
 
 1. Quizzes typically involve 20-30 questions. 
 2. The questions are not arranged in any particular order, and you should answer all questions.
