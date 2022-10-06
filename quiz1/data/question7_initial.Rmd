@@ -1,0 +1,37 @@
+---
+title: "The Results We Want"
+author: "431 Fall 2022 Quiz 1 Question 7"
+output: html_document
+---
+
+```{r load_packages, message = FALSE}
+knitr::opts_chunk$set(comment = NA)
+
+library(ggplot2)
+library(gt)
+library(janitor) 
+library(tidyverse)
+```
+
+## Table of Color by Cut in the `diamonds` data
+
+```{r look_at_diamonds_data, echo = FALSE}
+diamonds |> 
+    tabyl(color, cut) |>
+    adorn_totals() |>
+    gt() |> tab_header("Table of Color by Cut")
+```
+
+## Plot of Weight by Cut in the `diamonds` data
+
+```{r look_at_diamonds_data, echo = FALSE}
+ggplot(diamonds, aes(x = cut, y = carat, fill = cut)) +
+    geom_violin() +
+    geom_boxplot(width = 0.1, fill = "white") +
+    guides(fill = FALSE) +
+    theme_bw() 
+    labs(x = "Quality of the Cut",
+         y = "Weight of the Diamond (in carats)",
+         title = "Attributes of 53,940 round cut diamonds")
+```
+
