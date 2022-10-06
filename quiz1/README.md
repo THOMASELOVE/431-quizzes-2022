@@ -1,15 +1,11 @@
 # Quiz 1 information for Fall 2022
 
-## Early Draft of Instructions
+## What do you need to take the Quiz
 
-If you would like to read an early draft of the [instructions for Quiz 1 (in pdf)](431-quiz1_instructions.pdf), that's now available. It will disappear when the full Quiz is posted.
-
-## What else will appear here when the Quiz is available?
-
-- The complete instructions and questions for the Quiz (this should be a 26 page PDF).
-- The three data sets we are providing to help you with several Quiz questions.
-- The R Markdown file and HTML file we are providing to help you with Question 7 on the Quiz.
-- A link to the Google Form Answer Sheet you'll use to submit your responses.
+1. The complete instructions and questions for the Quiz (this should be a 26 page PDF).
+2. The three data sets we are providing to help you with several Quiz questions. (posted to our Shared Drive)
+3. The R Markdown file and HTML file we are providing to help you with Question 7 on the Quiz. (posted to our Shared Drive)
+4. This link to [the Google Form Answer Sheet](https://bit.ly/431-2022-quiz1-answer-sheet) you'll use to submit your responses.
 
 ## Reminders
 
