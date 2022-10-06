@@ -4,8 +4,12 @@
 
 1. The complete [instructions and questions for the Quiz](431-quiz1.pdf) (this should be a 26 page PDF).
 2. The four data sets (algae, newborn, pcare and sleep) we are providing to help you with several Quiz questions. (posted to our Shared Drive in the Quiz 1 folder)
+    - When imported into R, algae should show 200 observations on 18 variables,
+    - newborn should show 130 observations on 2 variables,
+    - pcare should show 111 observations on 7 variables, and
+    - sleep should show 134 observations on 1 variable.
 3. The R Markdown file and HTML file we are providing to help you with Question 7 on the Quiz. (also posted to our Shared Drive in the Quiz 1 folder)
-4. This link to [the Google Form Answer Sheet](https://bit.ly/431-2022-quiz1-answer-sheet) you'll use to submit your responses.
+4. This link to [the Google Form Answer Sheet](https://bit.ly/431-2022-quiz1-answer-sheet) you'll use to submit your responses. Remember you need to be logged into Google via CWRU to open the form.
 
 ## Reminders
 
