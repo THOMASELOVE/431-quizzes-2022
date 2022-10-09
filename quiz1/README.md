@@ -3,7 +3,7 @@
 ## What do you need to take the Quiz
 
 1. The complete [instructions and questions for the Quiz](431-quiz1.pdf) (this should be a 26 page PDF).
-    - **NOTE** On 2022-10-09, I placed a revised version of the PDF file online here. The only difference is that the boxplot in Question 13 is narrower, so that it matches up with response B. Response B was in fact used in generating the Figure for Question 13. Students were notified of this change via email just after 1 PM 2022-10-09.
+    - **NOTE** On 2022-10-09, I placed a revised version of [the PDF file online here](431-quiz1.pdf). The only difference is that the boxplot shown in Question 13 is narrower, so that it matches up with response B. Response B was in fact used in generating the Figure for Question 13. Students were notified of this change via email just after 1 PM 2022-10-09.
 2. The four .csv data sets (algae, newborn, pcare and sleep) we are providing to help you with several Quiz questions. (posted to our Shared Drive in the Quiz 1 folder, and also to the [data subfolder above](https://github.com/THOMASELOVE/431-quizzes-2022/tree/main/quiz1/data))
     - When imported into R, [algae.csv](data/algae.csv) should show 200 observations on 18 variables,
     - [newborn.csv](data/newborn.csv) should show 130 observations on 2 variables,
