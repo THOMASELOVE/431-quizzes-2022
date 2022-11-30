@@ -1,5 +1,10 @@
 # Quiz 2 information for 431 Fall 2022
 
+## Changes Since Initial Posting
+
+- 2022-11-30 at 4:13 PM: reposted Quiz to fix Question 06. 
+    - Question 06a now reads "Identify the student code for the subject with the largest number of missing values who also identified themselves as a current smoker."
+
 ## What do you need to take the Quiz
 
 1. The complete [instructions and questions for the Quiz](431-2022-quiz2.pdf) (this should be a 35 page PDF).
