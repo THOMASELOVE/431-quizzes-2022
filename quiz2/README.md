@@ -2,7 +2,7 @@
 
 ## Changes Since Initial Posting
 
-- 2022-11-30 at 4:13 PM: reposted Quiz to fix Question 06. 
+- 2022-11-30 at 4:13 PM: reposted Quiz [instructions and questions PDF](431-2022-quiz2.pdf) to fix Question 06. 
     - Question 06a now reads "Identify the student code for the subject with the largest number of missing values who also identified themselves as a current smoker."
 
 ## What do you need to take the Quiz
