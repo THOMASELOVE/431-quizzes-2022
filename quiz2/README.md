@@ -2,8 +2,8 @@
 
 ## Changes Since Initial Posting
 
-- 2022-12-01 at 12:04 PM: reposted Quiz [instructions and questions PDF](431-2022-quiz2.pdf) to fix Question 06 and Question 07.
-    - Question 06a now reads "Identify the student code for the subject with the largest number of missing values who also identified themselves as a current smoker."
+- 2022-12-01 at 12:07 PM: reposted Quiz [instructions and questions PDF](431-2022-quiz2.pdf) to fix Question 06 and Question 07.
+    - Question 06a now reads "Identify the student code for the subject with the largest number of missing values who also identified themselves as a current smoker." and also provides specifications on what the `smoker` variable codes mean (so you don't have to refer to Question 10).
     - Question 07a now asks that you round the p values to four decimal places, to match the Google Form.
 
 ## What do you need to take the Quiz
